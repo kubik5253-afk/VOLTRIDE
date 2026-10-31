@@ -2,3 +2,6 @@
 2. ввести: git clone https://github.com/kubik5253-afk/VOLTRIDE.git
 3. открыть консоль по пути C:\Users\Пользователь\Desktop\VOLTRIDE\volt-ride
 4. ввести :
+5. npm install
+6. npm run seed
+7. npm run dev
